@@ -5,5 +5,6 @@ This a binary class clasifier using DenseNet121 for Chest X-Rays Normal or Not-n
 
 It has an acceptable performance.
 You can find .ipynb whith code and explanation on how to implement this kind of network.
-Data is also avalible here.
+Dataset is also avalible here: https://www.kaggle.com/datasets/ivandavidruizangel/random-sample-of-adults-nih-normal-chest-x-rays
+
 Fell free to use my code :)
